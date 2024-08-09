@@ -1,0 +1,11 @@
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\bin\Debug\GerenciamentoEstoque.exe.config
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\bin\Debug\GerenciamentoEstoque.exe
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\bin\Debug\GerenciamentoEstoque.pdb
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.csproj.AssemblyReference.cache
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.LoginForm.resources
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.Properties.Resources.resources
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.RegisterForm.resources
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.csproj.GenerateResource.cache
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.exe
+C:\Users\luismarques\source\repos\GerenciamentoEstoque\GerenciamentoEstoque\obj\Debug\GerenciamentoEstoque.pdb
